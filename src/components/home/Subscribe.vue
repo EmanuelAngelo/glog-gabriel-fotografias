@@ -18,10 +18,8 @@
             </base-subheading>
 
             <p>
-              Enter your email address to subscribe to this blog
-              and receive notifications of new posts by email.
+             Digite seu endereço de e-mail para saber sobre minha agenda e receber notificações de novas postagens por e-mail.
             </p>
-
             <v-row class="pa-2">
               <v-responsive
                 class="overflow-visible mr-2"
@@ -68,7 +66,7 @@
                 <v-list-item-title>EMAIL</v-list-item-title>
 
                 <v-list-item-subtitle>
-                  THEARTOFTRAVEL@GMAIL.COM
+                  GABIRUR@GMAIL.COM
                 </v-list-item-subtitle>
               </v-list-item>
 
@@ -82,10 +80,10 @@
                   </v-icon>
                 </v-list-item-avatar>
 
-                <v-list-item-title>ADDRESS</v-list-item-title>
+                <v-list-item-title>ENDEREÇO</v-list-item-title>
 
                 <v-list-item-subtitle>
-                  1234 WORLD DR. HERE, TX 76123
+                  VITE CONDOMINIO PAPAI
                 </v-list-item-subtitle>
               </v-list-item>
 
@@ -99,10 +97,10 @@
                   </v-icon>
                 </v-list-item-avatar>
 
-                <v-list-item-title>PHONE</v-list-item-title>
+                <v-list-item-title>TELEFONE</v-list-item-title>
 
                 <v-list-item-subtitle>
-                  555-789-1234
+                  +55 98 988882424
                 </v-list-item-subtitle>
               </v-list-item>
             </v-list>

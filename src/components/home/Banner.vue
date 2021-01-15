@@ -16,18 +16,19 @@
           offset-md="5"
         >
           <h1 class="display-3 font-weight-light">
-            The Art Of Travel
+            Arte de Fotografar
           </h1>
 
           <div class="subheading text-uppercase pl-2 mb-4">
-            Finding Beauty, One flight at a time
+            Encontrando a beleza, um voo de cada vez
           </div>
 
           <v-btn
             color="primary"
             depressed
+            href="#subscribe"
           >
-            Subscribe
+            Inscreva-se 
           </v-btn>
         </v-col>
       </v-row>

@@ -1,5 +1,5 @@
 <template>
-  <div id="home">
+  <v-main id="home">
     <articles>
       <banner />
     </articles>
@@ -9,7 +9,7 @@
     <subscribe />
 
     <social />
-  </div>
+  </v-main>
 </template>
 
 <script>
