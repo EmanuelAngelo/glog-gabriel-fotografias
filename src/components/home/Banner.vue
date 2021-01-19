@@ -1,9 +1,9 @@
 <template>
   <base-card dark>
     <v-img
-      :src="require('@/assets/articles/blurcamera.jpg')"
+      :src="require('@/assets/articles/banner1.jpg')"
       class="grey lighten-2"
-      height="400"
+      height="600"
       width="100%"
     >
       <v-row
@@ -20,7 +20,7 @@
           </h1>
 
           <div class="subheading text-uppercase pl-2 mb-4">
-            Encontrando a beleza, um voo de cada vez
+            Encontrando a beleza, uma foto de cada vez
           </div>
 
           <v-btn

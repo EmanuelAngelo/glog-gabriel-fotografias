@@ -1,6 +1,6 @@
 <template>
   <v-container class="pa-0">
-    <base-subheading>Newest Blog Posts</base-subheading>
+    <base-subheading>Novas Fotos Postadas</base-subheading>
 
     <v-row
       v-for="(article, i) in articles.slice(11, 14)"

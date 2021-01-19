@@ -7,15 +7,15 @@
       class="hidden-md-and-up"
       @click="toggleDrawer"
     />
-
+<!-- src="require('@/assets/maracvaz.png')" logo -->
     <v-container class="mx-auto py-0">
       <v-row align="center">
         <v-img
-          :src="require('@/assets/logo.png')"
+          :src="require('@/assets/maracvaz.png')" 
           class="mr-5"
           contain
-          height="48"
-          width="48"
+          height="80"
+          width="80"
           max-width="48"
           @click="$vuetify.goTo(0)"
         />

@@ -14,7 +14,7 @@
             md="5"
           >
             <base-subheading class="mb-3">
-              Subscribe
+              Inscreva-se
             </base-subheading>
 
             <p>
@@ -38,7 +38,7 @@
                 color="secondary"
                 style="height: 48px"
               >
-                Subscribe
+                Inscreva-se
               </v-btn>
             </v-row>
           </v-col>
